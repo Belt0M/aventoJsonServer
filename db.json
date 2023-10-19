@@ -1,0 +1,18 @@
+{
+	"stories": [
+		{
+			"id": 1,
+			"img": "https://1.bp.blogspot.com/-34gfY4x_WIg/YKlAFBQ1MKI/AAAAAAAADRs/_AcjAuFDUoUG_OxoqBSLcMLZlAWbRlGDACLcBGAsYHQ/s583/245bf4ec4f8d746cbc0dd485d4b481e2.jpg",
+			"title": "Treasure Island",
+			"status": "draft",
+			"updateDate": "15.11.2023"
+		},
+		{
+			"id": 2,
+			"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWyFGGb1-k9aVkEBZTGqnWpL4i93vjdM24kdmjUd6ZPNZqiHVa",
+			"title": "Little Red Riding Hood",
+			"status": "published",
+			"updateDate": "10.10.2023"
+		}
+	]
+}
